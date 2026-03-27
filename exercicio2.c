@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
     int reproducoes[] = {120, 150, 80, 200, 300, 250};

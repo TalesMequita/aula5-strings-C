@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
     int A[3] = {5, 9, 6};

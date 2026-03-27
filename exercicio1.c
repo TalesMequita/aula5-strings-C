@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
     int precos[] = {10, 20, 35, 50, 75};
